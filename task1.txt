@@ -1,7 +1,0 @@
-git status
-hii...
-hello....
-this is github task
-using git reset command
-hero vired
-technical hub
